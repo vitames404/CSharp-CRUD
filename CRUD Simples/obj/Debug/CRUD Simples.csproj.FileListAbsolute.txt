@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\CRUD Simples.exe.config
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\CRUD Simples.exe
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\CRUD Simples.pdb
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD_Simples.Properties.Resources.resources
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.exe
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD Simples.pdb
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\obj\Debug\CRUD_Simples.Form1.resources
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\dadoscadastroDataSet.Designer.cs
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\dadoscadastroDataSet.xsc
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\dadoscadastroDataSet.xsd
+C:\Users\PC\source\repos\CRUD Simples\CRUD Simples\bin\Debug\dadoscadastroDataSet.xss
